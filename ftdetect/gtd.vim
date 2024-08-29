@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.gtd.txt,gtd.txt set filetype=gtd
+autocmd BufNewFile,BufRead *.gtd set filetype=gtd
